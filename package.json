@@ -42,7 +42,7 @@
     "gulp-uglify": "3.0.2",
     "gulp-useref": "5.0.0",
     "gulp-wrap": "0.15.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "mkdirp": "1.0.4",
     "mocha": "8.2.1",
     "node-uuid": "1.4.8",
